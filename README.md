@@ -1,7 +1,7 @@
 # T3A1---Ejercicio-01
 
 #etapa 01. descripcion del problema 
-desarrollar una solucion  ue permita ingresar y almacenar las calificaciones finales de todos los alumno de un salon de clase. determinar y mostrar el promediode las calificaciones finales en un resumen con los datos de los estudiantes.
+desarrollar una solucion  que permita ingresar y almacenar las calificaciones finales de todos los alumnos de un salon de clase. Determinar y mostrar el promedio de las calificaciones finales en un resumen con los datos de los estudiantes.
 
 #etapa 02. especificaciones 
 entrada: 
